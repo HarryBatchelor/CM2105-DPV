@@ -12,6 +12,8 @@ scipy = "*"
 numpy = "*"
 pandas = "*"
 notebook = "*"
+statsmodels = "*"
+statsmodels-api = "*"
 
 [requires]
 python_version = "3.6"
